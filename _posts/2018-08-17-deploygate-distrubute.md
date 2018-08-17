@@ -22,7 +22,7 @@ deploygate 사용을 통해 테스트 앱을 신속하게 받을 수 있으며, 
  * deploygate 를 실행시킨다.
  * [AVAILABLE] 을 탭하여 초대 받은 앱을 다운로드 받는다. 
 
-![](assets/img/deploy_02.png)
+![](assets/img/deploy_02.jpg)
 
 ### 앱 업데이트
 
