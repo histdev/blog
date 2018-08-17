@@ -3,8 +3,6 @@ layout: post
 title: Deploygate destribute
 ---
 
-# deploygate
-
 deploygate 사용을 통해 테스트 앱을 신속하게 받을 수 있으며, 갱신된 테스트 앱을 신속하게 업데이트 할 수 있다.
 
 ### deploygate 다운로드
@@ -15,20 +13,20 @@ deploygate 사용을 통해 테스트 앱을 신속하게 받을 수 있으며, 
 
 [deploygate](https://deploygate.com/) 내에서 tester로 [가입](https://deploygate.com/users/signup) 한다. 
 
-![](/assets/img/deploy_01.png)
+![](/assets/img/deploy_01.png | width=100) 
 
 ### 앱 다운로드
 
  * deploygate 를 실행시킨다.
  * [AVAILABLE] 을 탭하여 초대 받은 앱을 다운로드 받는다. 
 
-![](/assets/img/deploy_02.jpg)
+![](/assets/img/deploy_02.jpg | width=100)
 
 ### 앱 업데이트
 
  * 앱이 업데이트 될 경우 아래와 같이 deploygate에 업데이트 알림 badge가 보이게 된다.
 
-![](/assets/img/deploy_03.png)
+![](/assets/img/deploy_03.png | width=100)
 
 
 # 직접 다운로드
