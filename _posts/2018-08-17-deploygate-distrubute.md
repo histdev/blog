@@ -13,20 +13,20 @@ deploygate 이용하여 앱을 테스트 할 수 있다.
 
 [deploygate](https://deploygate.com/) 내에서 tester로 [가입](https://deploygate.com/users/signup) 한다. 
 
-![](/assets/img/deploy_01.png) 
+![]({{ site.url }}/assets/img/deploy_01.png) 
 
 ### 앱 다운로드
 
  * deploygate 를 실행시킨다.
  * [AVAILABLE] 을 탭하여 초대 받은 앱을 다운로드 받는다. 
 
-![](/assets/img/deploy_02.jpg)
+![]({{ site.url }}/assets/img/deploy_02.jpg)
 
 ### 앱 업데이트
 
  * 앱이 업데이트 될 경우, deploygate에 업데이트 알림 badge가 보이게 된다.
 
-![](/assets/img/deploy_03.png)
+![]({{ site.url }}/assets/img/deploy_03.png)
 
 
 ### 직접 다운로드
