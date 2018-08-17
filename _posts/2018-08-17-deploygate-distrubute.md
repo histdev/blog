@@ -29,7 +29,7 @@ deploygate 사용을 통해 테스트 앱을 신속하게 받을 수 있으며, 
 ![](/assets/img/deploy_03.png)
 
 
-# 직접 다운로드
+### 직접 다운로드
 
  직접 다운로드를 받을 경우 아래에서 경로에서 받는다.
  [다운로드](https://github.com/histdev/koreanair_and/releases/latest) 
